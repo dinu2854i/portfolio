@@ -40,7 +40,7 @@ Visit My Portfolio:  https://dinesh-portfolio-hjg3.onrender.com/
 
 📄 Resume
 
-Download PDF Resume:https://github.com/dinu2854i/portfolio/
+Download PDF Resume: https://github.com/dinu2854i/portfolio/blob/main/static/resume/Dinesh_Resume.pdf
 
 
 📬 Contact
